@@ -1,0 +1,16 @@
+.container {
+    padding: 2rem 0rem;
+  }
+  
+  h4 {
+    margin: 2rem 0rem 1rem;
+  }
+  .navbar{
+      font-family: 'lato',sans-serif;
+      color: rgb(252, 241, 241);
+      background-color: rgb(92, 0, 8);
+      font-size: 25px;
+      
+      margin: 0px;
+  }
+ 
